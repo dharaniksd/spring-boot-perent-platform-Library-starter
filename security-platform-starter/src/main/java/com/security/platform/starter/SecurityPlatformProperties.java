@@ -37,7 +37,7 @@ public class SecurityPlatformProperties {
     /**
      * Vulnerability check on startup
      */
-    private boolean vulnerabilityCheckOnStartup = false;
+    private boolean vulnerabilityCheckOnStartup = true;
 
     public boolean isEnabled() {
         return enabled;

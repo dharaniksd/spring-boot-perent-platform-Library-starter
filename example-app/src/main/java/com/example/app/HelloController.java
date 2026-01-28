@@ -22,7 +22,7 @@ public class HelloController {
         Map<String, Object> response = new HashMap<>();
         response.put("application", "Example App");
         response.put("security", "Enabled");
-        response.put("platform", "Security Platform Starter v1.0.0");
+        response.put("platform", "Security Platform Starter");
         return response;
     }
 }
