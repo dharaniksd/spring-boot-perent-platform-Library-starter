@@ -61,7 +61,7 @@ public class SecurityPlatformAutoConfiguration {
             logger.info("CSRF protection enabled");
         } else {
             http.csrf(csrf -> csrf.disable());
-            logger.info("CSRF protection disabled");
+            logger.warn("CSRF protection is DISABLED - this should only be used for REST APIs with token-based authentication");
         }
 
         // Configure CORS if enabled
