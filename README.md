@@ -2,6 +2,12 @@
 
 A centralized Spring Boot starter library for managing security vulnerabilities across multiple microservice applications.
 
+## Quick Links
+
+- **[Quick Start Guide](QUICK_START.md)** - Get started in 5 minutes
+- **[Security Documentation](SECURITY.md)** - Security features and best practices
+- **[Example Application](example-app/)** - Working example
+
 ## Overview
 
 This starter library provides a single place to manage and fix security vulnerabilities that affect all your Spring Boot microservices. By using this starter, you can:
