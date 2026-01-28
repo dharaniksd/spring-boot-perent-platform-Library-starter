@@ -36,7 +36,7 @@
         <spring-security.version>6.2.1</spring-security.version>
         <snakeyaml.version>2.2</snakeyaml.version>
         <jackson.version>2.16.1</jackson.version>
-        <tomcat.version>10.1.18</tomcat.version>
+        <tomcat.version>10.1.45</tomcat.version>
         <logback.version>1.4.14</logback.version>
         
         <!-- Plugin versions -->
